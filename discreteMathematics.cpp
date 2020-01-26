@@ -71,16 +71,7 @@ void plug(int n, int r){
   printf("Permutation sum: %d\n", result);
 }
 ////////////////////////////////////////
-void _5CardHandDeck(){
-  printf("How many 5 card hands can be drawn from a deck of 52 cards\?\n");
-  printf("Person has 5 cards which can be viewed in any order, called combination\n");
-  
-}
-////////////////////////////////////////
-////////////////////////////////////////
-////////////////////////////////////////
-////////////////////////////////////////
-////////////////////////////////////////
+
 int main(){
 
   printf("Formula I - Discrete shirt count\n");

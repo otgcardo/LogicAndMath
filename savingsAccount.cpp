@@ -1,9 +1,10 @@
-#include <iostream>
-#include <iomanip>
 /*
  - ricodexe@gmail.com
  - SavingsAccount using OOP
 */
+#include <iostream>
+#include <iomanip>
+
 class SavingsAccount{ //private variables
   double deposit, withdraw, balance;
   double annualInterestRate;
