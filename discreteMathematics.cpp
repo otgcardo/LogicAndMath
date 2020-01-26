@@ -1,6 +1,11 @@
 /*
 ricodexe@gmail.com
 
+program to calculate discrete count for shirts 
+made, discrete count on calculating license plates 
+and discrete count for finding the amount of a 4 
+digit lock code.
+
 1. A particular brand of shirt comes in 8 colors, 
 has a male version and a female version, and comes 
 in 5 sizes for each sex. How many different types 
@@ -24,8 +29,6 @@ There are two functions used, factorial() which takes one
 argument and is recursive. Second function plug() takes
 two arguments and has the formula.
 
-Compile, run: g++ -std=c++11 discreteMathematics.cpp -o dm
-./dm
 */
 #include <iostream>
 
@@ -43,7 +46,7 @@ void shirtCount(){
 
   printf("Total made: %d\n", result);
 }
-
+////////////////////////////////////////
 void licensePlate(){
   int license_plates[6] = {26,26,26,10,10,10};
 
@@ -56,7 +59,7 @@ license_plates[3] * license_plates[4] * license_plates[5];
 
   printf("There are %d plates under this coded system style\n", total_plates);
 }
-
+////////////////////////////////////////
 int factorial(int arg){
 	if(arg == 1) return arg;
 	else return arg * factorial(arg-1);
@@ -67,7 +70,17 @@ void plug(int n, int r){
   result = factorial(n) / factorial(n - r);
   printf("Permutation sum: %d\n", result);
 }
-
+////////////////////////////////////////
+void _5CardHandDeck(){
+  printf("How many 5 card hands can be drawn from a deck of 52 cards\?\n");
+  printf("Person has 5 cards which can be viewed in any order, called combination\n");
+  
+}
+////////////////////////////////////////
+////////////////////////////////////////
+////////////////////////////////////////
+////////////////////////////////////////
+////////////////////////////////////////
 int main(){
 
   printf("Formula I - Discrete shirt count\n");
