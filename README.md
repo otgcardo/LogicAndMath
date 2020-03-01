@@ -1,4 +1,4 @@
-Created by ricodexe@gmail.com - Self educational 
+Created by ric623@email.phoenix.edu - Self educational 
 research and some refactored older university 
 assignments.
 
