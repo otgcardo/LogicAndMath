@@ -1,4 +1,4 @@
-Created by ric623@email.phoenix.edu - Self educational 
+Created by otgcardo@yahoo.com - Self educational 
 research and some refactored older university 
 assignments.
 
