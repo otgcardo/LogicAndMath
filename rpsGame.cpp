@@ -2,7 +2,7 @@
 #include <string>
 #include <random>
 /*
- - ricodexe@gmail.com
+ - otgcardo@yahoo.com
  - Rock, paper, scissor cli game against robot
  - Uses the Mersenne Twister 19937 generator api instead of rand()
  - all logic in main local scope
