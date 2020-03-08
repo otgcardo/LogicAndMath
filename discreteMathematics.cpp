@@ -1,5 +1,5 @@
 /*
-ricodexe@gmail.com
+otgcardo@yahoo.com
 
 program to calculate discrete count for shirts 
 made, discrete count on calculating license plates 
