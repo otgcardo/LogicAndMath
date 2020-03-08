@@ -3,7 +3,7 @@
 #include <limits>
 
 /*
- - ricodexe@gmail.com
+ - otgcardo@yahoo.com
  - A small basic cli store called YALMART a spoof version of Walmart
  - Uses class, private variables, starts you off with $1024.0
 */
