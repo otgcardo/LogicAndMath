@@ -1,5 +1,5 @@
 /*
- - ricodexe@gmail.com
+ - otgcardo@yahoo.com
  - Calculating your travel cost: 400miles, 25mpg, $3.45
 */
 #include <iostream>
