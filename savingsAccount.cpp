@@ -1,5 +1,5 @@
 /*
- - ricodexe@gmail.com
+ - otgcardo@yahoo.com
  - SavingsAccount using OOP
 */
 #include <iostream>
